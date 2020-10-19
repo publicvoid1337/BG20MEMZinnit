@@ -1,0 +1,14 @@
+{
+  "name": "bg20memzinnit",
+  "version": "1.0.0",
+  "description": "Meme-Index der BG20DVE / Immer studierfähig",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yes",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
